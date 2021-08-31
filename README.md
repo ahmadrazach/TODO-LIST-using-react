@@ -1,2 +1,2 @@
 # TODO-LIST-using-react
-Created with CodeSandbox
+Simple todo list app using REACT.
